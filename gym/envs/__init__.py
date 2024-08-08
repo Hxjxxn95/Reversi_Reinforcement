@@ -1,0 +1,1 @@
+from gym.envs.reversi_random_template import ReversiEnv
