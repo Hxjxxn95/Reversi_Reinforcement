@@ -75,6 +75,3 @@ env.render()
   <source src="Video/sample.mp4" type="video/mp4">
 </video>
 
-## Contributing
-
-Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
